@@ -1,5 +1,10 @@
 ---
 title: "Customer Segmentation" 
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 author: "Saul Ventura"
 date: "Last update: `r format(Sys.time(), '%d %B, %Y')`" 
 output:
