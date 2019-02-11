@@ -519,8 +519,8 @@ customer.data$cluster  <- factor(customer.data$cluster, levels = c(1:5))
 
 ```
 
-
-##Labeling
+    
+##Labeling  
 We will add the **labels** to the customers.
 ```{r labeling, eval=TRUE , warning = FALSE, message=FALSE }
 
