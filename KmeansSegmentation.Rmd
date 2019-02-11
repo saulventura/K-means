@@ -555,7 +555,7 @@ grid.arrange(tableGrob(d, theme=tt3), nrow=1)
 ```
 
 ##Findings
-Based on the results, some **strategies** should be applied to leverage the recent clustering process.
+Based on the results, below **strategies** should be applied to leverage the recent clustering process.
 
 <center><img src="findings.png" ></center>
 
