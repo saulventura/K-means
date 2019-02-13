@@ -200,7 +200,7 @@ p1 <- foo %>%
 theme_minimal()
 
 ```
-Let's take a quick review using [Tableau](https://public.tableau.com/profile/saul.ventura#!/vizhome/DashboardUCLA/Dashboard1?publish=yes){target="_blank"}
+Let's take a quick review using [Tableau](https://public.tableau.com/profile/saul.ventura#!/vizhome/DashboardUCLA/UCLADashboard){target="_blank"}
 
 ```{r exploring5, fig.height=6, fig.cap ="Fig. 3", eval=TRUE , warning = FALSE, message=FALSE, include = FALSE}
 
