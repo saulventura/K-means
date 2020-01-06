@@ -4,4 +4,6 @@ The main purpose of this project is to use a clustering technique in order to ga
 
 RFM analysis (Recency, Frequency, Monetary), a proven marketing model for customer segmentation, was used to elaborate the input variables for clustering.
 
+Some of the different techniques used to find a optimal number of clusters were: Elbow, Average Silhouette, and Gap Statistic methods.
+
 [See website project](https://saulventura.github.io/K-means/)
